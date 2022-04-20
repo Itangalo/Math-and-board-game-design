@@ -2,6 +2,7 @@
 
 * Link to video: (not yet recorded)
 * Link to presentation: (not yet created)
+* Link to spreadsheet: (not yet created)
 
 ## (only sketches so far)
 
