@@ -1,4 +1,4 @@
-# Episode 5: Playing with dice
+# Episode A-5: Playing with dice
 
 * Link to video: (not yet recorded)
 * Link to presentation: (not yet created)
