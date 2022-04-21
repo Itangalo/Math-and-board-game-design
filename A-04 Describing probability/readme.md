@@ -1,4 +1,4 @@
-# Episode 4: Describing probability
+# Episode A-4: Describing probability
 
 * Link to video: (not yet recorded)
 * Link to presentation: (not yet created)
