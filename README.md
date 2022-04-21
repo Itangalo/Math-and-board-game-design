@@ -18,9 +18,10 @@ I imagine that the first videos will be something like this:
 4. **Important concepts for describing the average.** The concepts of (arithmetic) mean, expectation value, median and mode, and why/when they may be useful in board game design.
 5. **Percentiles and probability distribution.** The concepts of percentiles and probability distribution, to look at how likely/unlikely events are.
 
+Then some more hands-on examples:
 
-6. **Analyzing Bohnanza.** Applying some mathematics to decompose the game Bohnanza. Why do the cards pay off differently, and can we find cards that are better than others?
-7. **Non-standard dice rolls.** Some examples of how to get statistics for non-standard combinations of dice (such as a full set of polyhedral dice), or non-standard dice (such as dice with negative numbers or results that allow bonus rolls).
+6. **Non-standard dice rolls.** Some examples of how to get statistics for non-standard combinations of dice (such as a full set of polyhedral dice), or non-standard dice (such as dice with negative numbers or results that allow bonus rolls).
+7. **Analyzing Bohnanza.** Applying some mathematics to decompose the game Bohnanza. Why do the cards pay off differently, and can we find cards that are better than others?
 8. **Analyzing The Mind.** Making some assumptions on how players behave when playing The Mind, we can model the game pretty well and find out how likely it is that players get to certain levels.
 9. **Analyzing distances in Altrix.** Applying probabilities we can analyze distances on the board of the game Altrix, and find some features that are important to know when developing the game. (Altrix is the game I myself is making.)
 10. **Looking at normal distribution.** The sum of 3d6, and most other sums of 3 or more dice, is distributed in a bell curve. This has some useful implications if using the rolls for skill checks and the like.
