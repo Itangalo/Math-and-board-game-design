@@ -10,15 +10,19 @@ The project has an issue queue, where ideas and suggestions are very welcome. Yo
 
 I want to start with real basics, and I want to keep videos to 10 minutes or less. (I will probably fail on both, but ambitions are good.)
 
-I imagine that the first videos will be something like this:
+I imagine that the first videos will be something like this.
+
+### A: The introduction
 
 1. **Math is everything. Math is nothing.** Why mathematics will save you loads of time when creating board games. And why mathematics won't tell you if a game is good.
 2. **Basic probability calculations.** Some very basic examples of looking at (and calculating) probabilities for some dice and card events.
 3. **Introducing Monte Carlo simulations.** Some pretty basic examples of dice and card events where calculating probabilities becomes gets really complex. The idea of Monte Carlo simulations: simulating the individual random events and looking at the result, and then repeating a gazillion times.
-4. **Important concepts for describing the average.** The concepts of (arithmetic) mean, expectation value, median and mode, and why/when they may be useful in board game design.
-5. **Percentiles and probability distribution.** The concepts of percentiles and probability distribution, to look at how likely/unlikely events are.
+4. **Describing probability.** The concepts of (arithmetic) mean, expectation value, median and mode, and why/when they may be useful in board game design. The concepts of percentiles and probability distribution, to look at how likely/unlikely events are.
+5. **Playing with dice.** Using spreadsheets to find probabilites for getting 1 to 5 equals when rolling five standard dice.
 
-Then some more hands-on examples:
+### B: Introduction to using JavaScript with spreadsheets to estimate probabilities
+
+...
 
 6. **Non-standard dice rolls.** Some examples of how to get statistics for non-standard combinations of dice (such as a full set of polyhedral dice), or non-standard dice (such as dice with negative numbers or results that allow bonus rolls).
 7. **Analyzing Bohnanza.** Applying some mathematics to decompose the game Bohnanza. Why do the cards pay off differently, and can we find cards that are better than others?
