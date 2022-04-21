@@ -1,4 +1,4 @@
-# Episode 1: Math is everything, math is nothing
+# Episode A-1: Math is everything, math is nothing
 
 * Link to video: (not yet recorded)
 * Link to presentation: (not yet created)
