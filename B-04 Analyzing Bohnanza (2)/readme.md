@@ -1,4 +1,4 @@
-# Episode B-3: Analyzing Bohnanza, part 2
+# Episode B-4: Analyzing Bohnanza, part 2
 
 * Link to video: (not yet recorded)
 * Link to presentation: (not yet created)
