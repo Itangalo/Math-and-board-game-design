@@ -10,7 +10,8 @@ The project has an issue queue, where ideas and suggestions are very welcome. Yo
 
 I want to start with real basics, and I want to keep videos to 10 minutes or less. (I will probably fail on both, but ambitions are good.)
 
-I imagine that the first videos will be something like this.
+I imagine that the first videos will be something like this. **Feel free to post your own ideas in [the issue queue](https://github.com/Itangalo/Math-and-board-game-design/issues)!** I'd love to hear what you would like to see when it comes to applying mathematics to board game design.
+
 
 ### A: The introduction
 
@@ -22,23 +23,26 @@ I imagine that the first videos will be something like this.
 
 ### B: Introduction to using JavaScript with spreadsheets to estimate probabilities
 
-...
+1. **Drawing cards with code (1).** A first look at how to look find probabilities of drawing a certain number of special cards from a deck – using JavaScript attached to a Google spreadsheet.
+2. **Drawing cards with code (2).** Modifying the code in the previous episode, to get a more flexible tool for looking at probabilities when drawing cards.
+3. **Analyzing Bohnanza.** Applying some mathematics to decompose an aspect or two of the game Bohnanza. Why do the cards pay off differently, and can we find cards that are better than others?
 
-6. **Non-standard dice rolls.** Some examples of how to get statistics for non-standard combinations of dice (such as a full set of polyhedral dice), or non-standard dice (such as dice with negative numbers or results that allow bonus rolls).
-7. **Analyzing Bohnanza.** Applying some mathematics to decompose the game Bohnanza. Why do the cards pay off differently, and can we find cards that are better than others?
-8. **Analyzing The Mind.** Making some assumptions on how players behave when playing The Mind, we can model the game pretty well and find out how likely it is that players get to certain levels.
-9. **Analyzing distances in Altrix.** Applying probabilities we can analyze distances on the board of the game Altrix, and find some features that are important to know when developing the game. (Altrix is the game I myself is making.)
-10. **Looking at normal distribution.** The sum of 3d6, and most other sums of 3 or more dice, is distributed in a bell curve. This has some useful implications if using the rolls for skill checks and the like.
+### C: Other stuff
+
+Not sketched out yet.
+
+* **Non-standard dice rolls.** Some examples of how to get statistics for non-standard dice (such as dice with negative numbers or results that allow bonus rolls).
+* **Analyzing The Mind.** Making some assumptions on how players behave when playing The Mind, we can model the game pretty well and find out how likely it is that players get to certain levels.
+* **Looking at normal distribution.** The sum of 3d6, and most other sums of 3 or more dice, is distributed in a bell curve. This has some useful implications if using the rolls for skill checks and the like.
 
 
-Ideas for videos further down the line:
+### D: Other lose ideas
+
+Ideas for episodes further down the line.
 
 * **Letters to the editor.** Questions and situations to analyze provided by you and others. ([Post in the issue queue right away!](https://github.com/Itangalo/Math-and-board-game-design/issues))
 * **Balancing an economy.** How much should a resource cost? Some words on finding something to anchor on and using math to determine prices -- be it in terms of money, action points or something else.
 * **Useful spreadsheet tricks.** There are tonnes of useful tricks to simplify your work with spreadsheets.
-* **Using JavaScript to do more complex stuff.** If you know basic coding you can do a _lot_ more when it comes to simulating isolated aspects of games or, sometimes, full games.
-
-**Feel free to post your own ideas in [the issue queue](https://github.com/Itangalo/Math-and-board-game-design/issues)!** I'd love to hear what you would like to see when it comes to applying mathematics to board game design.
 
 
 ## Who am I?
