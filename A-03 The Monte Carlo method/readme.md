@@ -1,4 +1,4 @@
-# Episode 3: The Monte Carlo method
+# Episode A-3: The Monte Carlo method
 
 * Link to video: (not yet recorded)
 * Link to presentation: (not yet created)
