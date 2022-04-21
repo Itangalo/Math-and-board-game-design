@@ -1,4 +1,4 @@
-# Episode 2: Basic probability calculations
+# Episode A-2: Basic probability calculations
 
 * Link to video: (not yet recorded)
 * Link to presentation: (not yet created)
